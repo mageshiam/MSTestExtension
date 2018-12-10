@@ -1,0 +1,11 @@
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\bin\Debug\SnippetManager\MSTest.snippet
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\bin\Debug\SnippetManager\MSTestSnippet.pkgdef
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\bin\Debug\MSTestSnippet.vsix
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\bin\Debug\extension.vsixmanifest
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\MSTestSnippet.csprojAssemblyReference.cache
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\MSTestSnippet.csproj.CoreCompileInputs.cache
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\MSTestSnippet.dll
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\MSTestSnippet.pdb
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\extension.vsixmanifest
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\files.json
+C:\Users\Magesh\Desktop\MSTestSnippet\MSTestSnippet\obj\Debug\createTemplateManifests.cache
